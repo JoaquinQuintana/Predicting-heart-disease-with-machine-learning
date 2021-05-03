@@ -5,4 +5,5 @@ Here we looked at the UCI heart dataset which is used to predict heart disease w
 We looked at logistic regression, linear discriminant analysis, K-nearest neighbors and a random forest classifier.
 
 UCI data set source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
 Kaggle UCI dataset source: https://www.kaggle.com/ronitf/heart-disease-uci/discussion/105877
