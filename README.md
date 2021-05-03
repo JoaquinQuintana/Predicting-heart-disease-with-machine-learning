@@ -7,3 +7,5 @@ We looked at logistic regression, linear discriminant analysis, K-nearest neighb
 UCI data set source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 Kaggle UCI dataset source: https://www.kaggle.com/ronitf/heart-disease-uci/discussion/105877
+
+A short overview of the notebook is available on youtube: https://youtu.be/xY9zG3pr4jw
